@@ -54,4 +54,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
 </table>
  
- check application <a href="https://wandersondefariasprogramador.github.io/SITE-RESTAURANTE-2/">HERE!</a>
+ check application <a href="https://wandersondefariasprogramador.github.io/E-Commerce-Website/">HERE!</a>
